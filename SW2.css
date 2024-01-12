@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+	font-family: Arial, sans-serif;
+	color: white;
+	
+}
+table{
+	
+	background-color: #00643c;
+	border-color: #white;
+	border: 2px solid white;
+	border-spacing: 50x;
+}
+#title{
+	border: 0px;
+	background-color: #00643c;
+}
